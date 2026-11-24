@@ -88,8 +88,8 @@
     >
       <span
         >© 2026 <a
-          href="https://github.com/tiennm99"
-          class="focus-ring rounded text-teal-700 hover:underline">tiennm99</a
+          href="https://miti99.com"
+          class="focus-ring rounded text-teal-700 hover:underline">miti99</a
         ></span
       >
       <span aria-hidden="true">·</span>
